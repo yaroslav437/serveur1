@@ -1,0 +1,26 @@
+{
+  "name": "my-first-node-project",
+  "version": "1.0.0",
+  "description": "ce projet est un test",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaroslav437/serveur1.git"
+  },
+  "keywords": [
+    "oscar"
+  ],
+  "author": "ndi otele oscar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaroslav437/serveur1/issues"
+  },
+  "homepage": "https://github.com/yaroslav437/serveur1#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
